@@ -10,7 +10,7 @@ Jest é um framework de teste unitário de código aberto em JavaScript criado p
 4. Execute o comando responsável por instalar as dependências necessárias do projeto: npm install;
 5. Execute o comando responsável por rodar o teste: npm test;
 6. Verifique a cobertura dos testes unitários: npm run coverage;
-7. Faça mais testes de acordo com a classe, ou crie novas classes;
+7. Faça mais testes de acordo com a classe, ou crie novas classes.
 
 ## Documentação 🎉
 
