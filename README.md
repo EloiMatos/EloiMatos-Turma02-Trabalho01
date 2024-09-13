@@ -1,27 +1,25 @@
-# JEST Unit Tests
+# Jest - Teste unitário 📜
 
-## GitHub Actions
+Jest é um framework de teste unitário de código aberto em JavaScript criado pelo Facebook a partir do framework Jasmine. Jest é uma das ferramentas de teste unitário mais difundidas dentro da comunidade de JavaScript.
 
-[![Build and Tests](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml)
+## Como usar ☕️
 
-## SonarCloud
+1. Acesse o terminal da pasta que estará executando o código;
+2. Execute o seguinte comando: git clone https://github.com/EloiMatos/EloiMatos-Turma02-Trabalho01.git
+3. Certifique-se de ter o node.js para usar o npm;
+4. Execute o comando responsável por instalar as dependências necessárias do projeto: npm install;
+5. Execute o comando responsável por rodar o teste: npm test;
+6. Verifique a cobertura dos testes unitários: npm run coverage;
+7. Faça mais testes de acordo com a classe, ou crie novas classes;
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_unit-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_unit-tests-jest)
+## Documentação 🎉
 
-## Getting Started
+Acesse a documentação para entender o uso do jest: https://jestjs.io/docs/getting-started
 
-In order to execute this project you must follow the steps below:
+## Contribuição ✨
 
-1. Install [Node JS](https://nodejs.org/) (version >= 20.x)
-1. Run `npm install` to install all the project dependencies
-1. Run `npm run test` to execute the entire test suite
-1. Run `npm run coverage` to execute the entire test suite with coverage
+Agradicimentos especiais ao Professor Leandro Ugioni pelas aulas sobre testes unitários.
 
-All execution artifacts can be found in `./coverage`, if you want to remove these files run `npm run clean`.
+## Aprenda desenvolvimento frontend ❤️
 
-## Project Structure
-</br>
-<ul>
-    <li>src: source code</li>
-    <li>test: unit test files</li>
-</ul>
+Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu ebook "**[eFront - Estudando frontend do zero](https://iuricode.com/efront)**" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
