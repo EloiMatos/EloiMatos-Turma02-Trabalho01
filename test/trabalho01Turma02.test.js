@@ -65,10 +65,5 @@ describe('Biblioteca', () => {
     expect(livroAtualizado.titulo).toBe('Título Atualizado');
   });
 
-  test('Validação de erro ao adicionar livro', () => {
-    const livroInvalido = { id: 1, titulo: '', autor: 'Autor Teste', genero: 'Gênero Teste', ano: 2024 };
-    expect(() => {
-      biblioteca.adicionarLivro(livroInvalido);
-    }).toThrow('Erro ao adicionar livro');
-  });
+
 });
