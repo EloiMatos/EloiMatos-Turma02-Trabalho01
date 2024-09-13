@@ -20,6 +20,3 @@ Acesse a documentação para entender o uso do jest: https://jestjs.io/docs/gett
 
 Agradicimentos especiais ao Professor Leandro Ugioni pelas aulas sobre testes unitários.
 
-## Aprenda desenvolvimento frontend ❤️
-
-Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu ebook "**[eFront - Estudando frontend do zero](https://iuricode.com/efront)**" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
